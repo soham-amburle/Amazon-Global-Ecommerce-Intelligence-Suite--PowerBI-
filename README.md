@@ -1,4 +1,4 @@
-# Amazon – Global E-Commerce Intelligence Suite
+# Amazon | Global E-Commerce Enterprise Intelligence Suite (Power BI)
 
 ## Project Overview
 This project simulates an **enterprise-grade Business Intelligence solution** for a global e-commerce leader like Amazon, built using **Power BI** and a large-scale **synthetic retail dataset**.
